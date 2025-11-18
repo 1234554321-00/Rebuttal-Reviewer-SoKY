@@ -289,4 +289,4 @@ To address your concerns and demonstrate rigor:
 
 ---
 
-**These substantial revisions comprehensively address all major concerns and strengthen the theoretical and empirical contributions of CuCoDistill. We respectfully request the reviewer to reconsider the evaluation and increase the score accordingly, and we remain happy to clarify any remaining questions.**
+**The provided clarifications effectively address the raised issues. We respectfully request a re-evaluation and an upward adjustment of the score, and we are available for any further questions.**
